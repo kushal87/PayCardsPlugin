@@ -1,0 +1,14 @@
+/Users/kushal/Projects/CardReader/CardReader/bin/Debug/netstandard2.0/CardReader.deps.json
+/Users/kushal/Projects/CardReader/CardReader/bin/Debug/netstandard2.0/CardReader.dll
+/Users/kushal/Projects/CardReader/CardReader/bin/Debug/netstandard2.0/ref/CardReader.dll
+/Users/kushal/Projects/CardReader/CardReader/bin/Debug/netstandard2.0/CardReader.pdb
+/Users/kushal/Projects/CardReader/CardReader/obj/Debug/netstandard2.0/CardReader.csprojAssemblyReference.cache
+/Users/kushal/Projects/CardReader/CardReader/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/kushal/Projects/CardReader/CardReader/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/kushal/Projects/CardReader/CardReader/obj/Debug/netstandard2.0/CardReader.AssemblyInfoInputs.cache
+/Users/kushal/Projects/CardReader/CardReader/obj/Debug/netstandard2.0/CardReader.AssemblyInfo.cs
+/Users/kushal/Projects/CardReader/CardReader/obj/Debug/netstandard2.0/CardReader.csproj.CoreCompileInputs.cache
+/Users/kushal/Projects/CardReader/CardReader/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/kushal/Projects/CardReader/CardReader/obj/Debug/netstandard2.0/CardReader.dll
+/Users/kushal/Projects/CardReader/CardReader/obj/Debug/netstandard2.0/ref/CardReader.dll
+/Users/kushal/Projects/CardReader/CardReader/obj/Debug/netstandard2.0/CardReader.pdb
