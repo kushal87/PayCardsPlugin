@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{9530FAC4-1385-4D6F-AF69-F44CD9361608}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CardReader/MainPage.xaml.cs">
+    <Files>
+      <File FileName="CardReader/MainPage.xaml" Line="1" Column="1" />
+      <File FileName="CardReader/MainPage.xaml.cs" Line="12" Column="26" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CardReader" expanded="True">
+            <Node name="CardReader" expanded="True">
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="CardReader" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CardReader.Android PreferredExecutionTarget="Android.Nexus_5X_API_28" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
