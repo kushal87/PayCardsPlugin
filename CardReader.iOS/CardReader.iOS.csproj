@@ -68,6 +68,7 @@
     <None Include="Entitlements.plist" />
     <None Include="Info.plist" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Renderer\PageRenderer.cs" />
   </ItemGroup>
   <ItemGroup>
     <InterfaceDefinition Include="Resources\LaunchScreen.storyboard" />
@@ -113,6 +114,78 @@
     <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon20.png">
       <Visible>false</Visible>
     </ImageAsset>
+    <ImageAsset Include="Assets.xcassets\americanexpresslogo.imageset\americanexpresslogo%403x.png" />
+    <ImageAsset Include="Assets.xcassets\americanexpresslogo.imageset\americanexpresslogo%402x.png" />
+    <ImageAsset Include="Assets.xcassets\americanexpresslogo.imageset\Contents.json" />
+    <ImageAsset Include="Assets.xcassets\americanexpresslogo.imageset\americanexpresslogo%401x.png" />
+    <ImageAsset Include="Assets.xcassets\holdername.imageset\holdername%403x.png" />
+    <ImageAsset Include="Assets.xcassets\holdername.imageset\holdername%402x.png" />
+    <ImageAsset Include="Assets.xcassets\holdername.imageset\holdername%401x.png" />
+    <ImageAsset Include="Assets.xcassets\holdername.imageset\Contents.json" />
+    <ImageAsset Include="Assets.xcassets\ic_amex_blue.imageset\ic_amex_blue%403x.png" />
+    <ImageAsset Include="Assets.xcassets\ic_amex_blue.imageset\ic_amex_blue%402x.png" />
+    <ImageAsset Include="Assets.xcassets\ic_amex_blue.imageset\ic_amex_blue%401x.png" />
+    <ImageAsset Include="Assets.xcassets\ic_amex_blue.imageset\Contents.json" />
+    <ImageAsset Include="Assets.xcassets\ic_amex_light.imageset\ic_amex_light%401x.png" />
+    <ImageAsset Include="Assets.xcassets\ic_amex_light.imageset\Contents.json" />
+    <ImageAsset Include="Assets.xcassets\ic_amex_light.imageset\ic_amex_light%403x.png" />
+    <ImageAsset Include="Assets.xcassets\ic_amex_light.imageset\ic_amex_light%402x.png" />
+    <ImageAsset Include="Assets.xcassets\ic_amex.imageset\ic_amex%402x.png" />
+    <ImageAsset Include="Assets.xcassets\ic_amex.imageset\ic_amex%403x.png" />
+    <ImageAsset Include="Assets.xcassets\ic_amex.imageset\Contents.json" />
+    <ImageAsset Include="Assets.xcassets\ic_amex.imageset\ic_amex%401x.png" />
+    <ImageAsset Include="Assets.xcassets\ic_chip.imageset\ic_chip%401x.png" />
+    <ImageAsset Include="Assets.xcassets\ic_chip.imageset\Contents.json" />
+    <ImageAsset Include="Assets.xcassets\ic_chip.imageset\ic_chip%402x.png" />
+    <ImageAsset Include="Assets.xcassets\ic_chip.imageset\ic_chip%403x.png" />
+    <ImageAsset Include="Assets.xcassets\ic_cvv.imageset\ic_cvv%401x.png" />
+    <ImageAsset Include="Assets.xcassets\ic_cvv.imageset\ic_cvv%403x.png" />
+    <ImageAsset Include="Assets.xcassets\ic_cvv.imageset\Contents.json" />
+    <ImageAsset Include="Assets.xcassets\ic_cvv.imageset\ic_cvv%402x.png" />
+    <ImageAsset Include="Assets.xcassets\ic_date.imageset\ic_date%401x.png" />
+    <ImageAsset Include="Assets.xcassets\ic_date.imageset\ic_date%403x.png" />
+    <ImageAsset Include="Assets.xcassets\ic_date.imageset\Contents.json" />
+    <ImageAsset Include="Assets.xcassets\ic_date.imageset\ic_date%402x.png" />
+    <ImageAsset Include="Assets.xcassets\ic_dinersclub_white.imageset\ic_dinersclub_white%402x.png" />
+    <ImageAsset Include="Assets.xcassets\ic_dinersclub_white.imageset\ic_dinersclub_white%403x.png" />
+    <ImageAsset Include="Assets.xcassets\ic_dinersclub_white.imageset\ic_dinersclub_white%401x.png" />
+    <ImageAsset Include="Assets.xcassets\ic_dinersclub_white.imageset\Contents.json" />
+    <ImageAsset Include="Assets.xcassets\ic_dinersclub.imageset\ic_dinersclub%401x.png" />
+    <ImageAsset Include="Assets.xcassets\ic_dinersclub.imageset\Contents.json" />
+    <ImageAsset Include="Assets.xcassets\ic_dinersclub.imageset\ic_dinersclub%402x.png" />
+    <ImageAsset Include="Assets.xcassets\ic_dinersclub.imageset\ic_dinersclub%403x.png" />
+    <ImageAsset Include="Assets.xcassets\ic_discover_light.imageset\ic_discover_light%401x.png" />
+    <ImageAsset Include="Assets.xcassets\ic_discover_light.imageset\Contents.json" />
+    <ImageAsset Include="Assets.xcassets\ic_discover_light.imageset\ic_discover_light%402x.png" />
+    <ImageAsset Include="Assets.xcassets\ic_discover_light.imageset\ic_discover_light%403x.png" />
+    <ImageAsset Include="Assets.xcassets\ic_discover.imageset\ic_discover%401x.png" />
+    <ImageAsset Include="Assets.xcassets\ic_discover.imageset\ic_discover%403x.png" />
+    <ImageAsset Include="Assets.xcassets\ic_discover.imageset\ic_discover%402x.png" />
+    <ImageAsset Include="Assets.xcassets\ic_discover.imageset\Contents.json" />
+    <ImageAsset Include="Assets.xcassets\ic_jcb.imageset\ic_jcb%402x.png" />
+    <ImageAsset Include="Assets.xcassets\ic_jcb.imageset\ic_jcb%403x.png" />
+    <ImageAsset Include="Assets.xcassets\ic_jcb.imageset\Contents.json" />
+    <ImageAsset Include="Assets.xcassets\ic_jcb.imageset\ic_jcb%401x.png" />
+    <ImageAsset Include="Assets.xcassets\ic_mastercard_white.imageset\ic_mastercard_white%401x.png" />
+    <ImageAsset Include="Assets.xcassets\ic_mastercard_white.imageset\ic_mastercard_white%403x.png" />
+    <ImageAsset Include="Assets.xcassets\ic_mastercard_white.imageset\ic_mastercard_white%402x.png" />
+    <ImageAsset Include="Assets.xcassets\ic_mastercard_white.imageset\Contents.json" />
+    <ImageAsset Include="Assets.xcassets\ic_mastercard.imageset\ic_mastercard%403x.png" />
+    <ImageAsset Include="Assets.xcassets\ic_mastercard.imageset\ic_mastercard%402x.png" />
+    <ImageAsset Include="Assets.xcassets\ic_mastercard.imageset\Contents.json" />
+    <ImageAsset Include="Assets.xcassets\ic_mastercard.imageset\ic_mastercard%401x.png" />
+    <ImageAsset Include="Assets.xcassets\ic_visa_white.imageset\ic_visa_white%403x.png" />
+    <ImageAsset Include="Assets.xcassets\ic_visa_white.imageset\ic_visa_white%402x.png" />
+    <ImageAsset Include="Assets.xcassets\ic_visa_white.imageset\Contents.json" />
+    <ImageAsset Include="Assets.xcassets\ic_visa_white.imageset\ic_visa_white%401x.png" />
+    <ImageAsset Include="Assets.xcassets\ic_visa.imageset\ic_visa%401x.png" />
+    <ImageAsset Include="Assets.xcassets\ic_visa.imageset\ic_visa%402x.png" />
+    <ImageAsset Include="Assets.xcassets\ic_visa.imageset\Contents.json" />
+    <ImageAsset Include="Assets.xcassets\ic_visa.imageset\ic_visa%403x.png" />
+    <ImageAsset Include="Assets.xcassets\nocards.imageset\nocards%401x.png" />
+    <ImageAsset Include="Assets.xcassets\nocards.imageset\Contents.json" />
+    <ImageAsset Include="Assets.xcassets\nocards.imageset\nocards%403x.png" />
+    <ImageAsset Include="Assets.xcassets\nocards.imageset\nocards%402x.png" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -133,5 +206,8 @@
       <Project>{6DF1DA30-9C1A-4431-B0A1-F57E1C0C3984}</Project>
       <Name>CardReader</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Renderer\" />
   </ItemGroup>
 </Project>

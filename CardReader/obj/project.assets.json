@@ -72,6 +72,18 @@
           "buildTransitive/Xamarin.Forms.props": {},
           "buildTransitive/Xamarin.Forms.targets": {}
         }
+      },
+      "XamarinFastEntry.Behaviors/1.1.1": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Forms": "2.5.0.280555"
+        },
+        "compile": {
+          "lib/netstandard2.0/XamarinFastEntry.Behaviors.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/XamarinFastEntry.Behaviors.dll": {}
+        }
       }
     }
   },
@@ -650,6 +662,18 @@
         "xamarin.forms.4.6.0.1141.nupkg.sha512",
         "xamarin.forms.nuspec"
       ]
+    },
+    "XamarinFastEntry.Behaviors/1.1.1": {
+      "sha512": "wFocE4uJRpzgb5r6D2GLPa1hrR/Fs7v0r62YacxC2KxcVhV2okSGpu3/giboT5fCfHQ/8QzP4SbWi+tZnAqJOQ==",
+      "type": "package",
+      "path": "xamarinfastentry.behaviors/1.1.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/XamarinFastEntry.Behaviors.dll",
+        "xamarinfastentry.behaviors.1.1.1.nupkg.sha512",
+        "xamarinfastentry.behaviors.nuspec"
+      ]
     }
   },
   "projectFileDependencyGroups": {
@@ -657,7 +681,8 @@
       "NETStandard.Library >= 2.0.3",
       "Plugin.PayCards >= 1.1.1",
       "Xamarin.Essentials >= 1.5.3.2",
-      "Xamarin.Forms >= 4.6.0.1141"
+      "Xamarin.Forms >= 4.6.0.1141",
+      "XamarinFastEntry.Behaviors >= 1.1.1"
     ]
   },
   "packageFolders": {
@@ -666,11 +691,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kushal/Projects/PayCardsPlugin/CardReader/CardReader.csproj",
+      "projectUniqueName": "/Users/kushal/Documents/GitHub/PayCardsPlugin/CardReader/CardReader.csproj",
       "projectName": "CardReader",
-      "projectPath": "/Users/kushal/Projects/PayCardsPlugin/CardReader/CardReader.csproj",
+      "projectPath": "/Users/kushal/Documents/GitHub/PayCardsPlugin/CardReader/CardReader.csproj",
       "packagesPath": "/Users/kushal/.nuget/packages/",
-      "outputPath": "/Users/kushal/Projects/PayCardsPlugin/CardReader/obj/",
+      "outputPath": "/Users/kushal/Documents/GitHub/PayCardsPlugin/CardReader/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/kushal/.config/NuGet/NuGet.Config"
@@ -712,6 +737,10 @@
           "Xamarin.Forms": {
             "target": "Package",
             "version": "[4.6.0.1141, )"
+          },
+          "XamarinFastEntry.Behaviors": {
+            "target": "Package",
+            "version": "[1.1.1, )"
           }
         },
         "imports": [

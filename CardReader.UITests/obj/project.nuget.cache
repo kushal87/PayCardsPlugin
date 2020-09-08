@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5s79NZaCL/iC8PUtRNNYdLqPqkR7Quk9PA4TsD3o8igHY0twvbi5oVe1eEgNAVSgJ+LhXVBzrrBVUcKztOMMuQ==",
+  "dgSpecHash": "OyMOQ64aws+7yqxmH2HZrgC9lfjk8Ojo3CwU+6pLry6hHueD5bgsXj/mqrRSr/9HWAx7G2sU67bb4On+L1BuCQ==",
   "success": true,
-  "projectFilePath": "/Users/kushal/Projects/PayCardsPlugin/CardReader.UITests/CardReader.UITests.csproj",
+  "projectFilePath": "/Users/kushal/Documents/GitHub/PayCardsPlugin/CardReader.UITests/CardReader.UITests.csproj",
   "expectedPackageFiles": [
     "/Users/kushal/.nuget/packages/nunit/3.12.0/nunit.3.12.0.nupkg.sha512",
     "/Users/kushal/.nuget/packages/xamarin.uitest/3.0.5/xamarin.uitest.3.0.5.nupkg.sha512"

@@ -157,11 +157,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kushal/Projects/PayCardsPlugin/CardReader.UITests/CardReader.UITests.csproj",
+      "projectUniqueName": "/Users/kushal/Documents/GitHub/PayCardsPlugin/CardReader.UITests/CardReader.UITests.csproj",
       "projectName": "CardReader.UITests",
-      "projectPath": "/Users/kushal/Projects/PayCardsPlugin/CardReader.UITests/CardReader.UITests.csproj",
+      "projectPath": "/Users/kushal/Documents/GitHub/PayCardsPlugin/CardReader.UITests/CardReader.UITests.csproj",
       "packagesPath": "/Users/kushal/.nuget/packages/",
-      "outputPath": "/Users/kushal/Projects/PayCardsPlugin/CardReader.UITests/obj/",
+      "outputPath": "/Users/kushal/Documents/GitHub/PayCardsPlugin/CardReader.UITests/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [

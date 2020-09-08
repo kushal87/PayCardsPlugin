@@ -809,13 +809,26 @@
           "buildTransitive/Xamarin.Forms.targets": {}
         }
       },
+      "XamarinFastEntry.Behaviors/1.1.1": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Forms": "2.5.0.280555"
+        },
+        "compile": {
+          "lib/netstandard2.0/XamarinFastEntry.Behaviors.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/XamarinFastEntry.Behaviors.dll": {}
+        }
+      },
       "CardReader/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "Plugin.PayCards": "1.1.1",
           "Xamarin.Essentials": "1.5.3.2",
-          "Xamarin.Forms": "4.6.0.1141"
+          "Xamarin.Forms": "4.6.0.1141",
+          "XamarinFastEntry.Behaviors": "1.1.1"
         },
         "compile": {
           "bin/placeholder/CardReader.dll": {}
@@ -1980,6 +1993,18 @@
         "xamarin.forms.nuspec"
       ]
     },
+    "XamarinFastEntry.Behaviors/1.1.1": {
+      "sha512": "wFocE4uJRpzgb5r6D2GLPa1hrR/Fs7v0r62YacxC2KxcVhV2okSGpu3/giboT5fCfHQ/8QzP4SbWi+tZnAqJOQ==",
+      "type": "package",
+      "path": "xamarinfastentry.behaviors/1.1.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/XamarinFastEntry.Behaviors.dll",
+        "xamarinfastentry.behaviors.1.1.1.nupkg.sha512",
+        "xamarinfastentry.behaviors.nuspec"
+      ]
+    },
     "CardReader/1.0.0": {
       "type": "project",
       "path": "../CardReader/CardReader.csproj",
@@ -1999,11 +2024,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kushal/Projects/PayCardsPlugin/CardReader.Android/CardReader.Android.csproj",
+      "projectUniqueName": "/Users/kushal/Documents/GitHub/PayCardsPlugin/CardReader.Android/CardReader.Android.csproj",
       "projectName": "CardReader.Android",
-      "projectPath": "/Users/kushal/Projects/PayCardsPlugin/CardReader.Android/CardReader.Android.csproj",
+      "projectPath": "/Users/kushal/Documents/GitHub/PayCardsPlugin/CardReader.Android/CardReader.Android.csproj",
       "packagesPath": "/Users/kushal/.nuget/packages/",
-      "outputPath": "/Users/kushal/Projects/PayCardsPlugin/CardReader.Android/obj/",
+      "outputPath": "/Users/kushal/Documents/GitHub/PayCardsPlugin/CardReader.Android/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -2018,8 +2043,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "/Users/kushal/Projects/PayCardsPlugin/CardReader/CardReader.csproj": {
-              "projectPath": "/Users/kushal/Projects/PayCardsPlugin/CardReader/CardReader.csproj"
+            "/Users/kushal/Documents/GitHub/PayCardsPlugin/CardReader/CardReader.csproj": {
+              "projectPath": "/Users/kushal/Documents/GitHub/PayCardsPlugin/CardReader/CardReader.csproj"
             }
           }
         }

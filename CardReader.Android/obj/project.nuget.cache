@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "f1isV5OHe05N4aDxEcw2cM2VdmAND6JqCswW4elczb+urHll8gw8f8BIy5B/k6t6bGjrHWU5azhoOdbBuhaovA==",
+  "dgSpecHash": "MsD4s7BthY6z/9RuFyL5LpyBKnjfuZ6L1h9nL2f1TbMF0wYO99ZfxpZX1Oaqy7hvIYgyrAWvHDayga1AWLsEzA==",
   "success": true,
-  "projectFilePath": "/Users/kushal/Projects/PayCardsPlugin/CardReader.Android/CardReader.Android.csproj",
+  "projectFilePath": "/Users/kushal/Documents/GitHub/PayCardsPlugin/CardReader.Android/CardReader.Android.csproj",
   "expectedPackageFiles": [
     "/Users/kushal/.nuget/packages/paycards.droid/1.0.1/paycards.droid.1.0.1.nupkg.sha512",
     "/Users/kushal/.nuget/packages/plugin.paycards/1.1.1/plugin.paycards.1.1.1.nupkg.sha512",
@@ -44,7 +44,8 @@
     "/Users/kushal/.nuget/packages/xamarin.android.support.versionedparcelable/28.0.0.3/xamarin.android.support.versionedparcelable.28.0.0.3.nupkg.sha512",
     "/Users/kushal/.nuget/packages/xamarin.android.support.viewpager/28.0.0.3/xamarin.android.support.viewpager.28.0.0.3.nupkg.sha512",
     "/Users/kushal/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
-    "/Users/kushal/.nuget/packages/xamarin.forms/4.6.0.1141/xamarin.forms.4.6.0.1141.nupkg.sha512"
+    "/Users/kushal/.nuget/packages/xamarin.forms/4.6.0.1141/xamarin.forms.4.6.0.1141.nupkg.sha512",
+    "/Users/kushal/.nuget/packages/xamarinfastentry.behaviors/1.1.1/xamarinfastentry.behaviors.1.1.1.nupkg.sha512"
   ],
   "logs": []
 }

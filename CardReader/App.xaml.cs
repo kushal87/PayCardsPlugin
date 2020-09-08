@@ -1,6 +1,7 @@
 ﻿using System;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
+using CardReader.Views;
 
 namespace CardReader
 {
@@ -9,8 +10,7 @@ namespace CardReader
         public App()
         {
             InitializeComponent();
-
-            MainPage = new MainPage();
+            MainPage = new CustomNavigationPage(new CardEntryView());
         }
 
         protected override void OnStart()

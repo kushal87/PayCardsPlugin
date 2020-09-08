@@ -19,8 +19,7 @@ namespace CardReader
 
         public async void ScanAsync()
         {
-            var cardInfo = await CrossPayCards.Current.ScanAsync();
-            
+            var cardInfo = await CrossPayCards.Current.ScanAsync();            
             _ = DisplayAlert("Result", $"{cardInfo.HolderName}\n{cardInfo.CardNumber}\n{cardInfo.ExpirationDate}", "Yes", "No");
         }
     }
