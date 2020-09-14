@@ -117,13 +117,12 @@
                        </Entry>
                   </StackLayout>
 
-               </Frame>
-
+               </Frame>            
               <Button  Text="Proceed to pay"
                          Grid.Row="3"
                          Grid.Column="0"
                          Grid.ColumnSpan="3"
-                         BackgroundColor="White"
+                         BackgroundColor="{DynamicResource ButtonBackround}"
                          BorderColor="{DynamicResource LightColor}"
                          TextColor="{DynamicResource PrimaryDark}"
                          BorderWidth="1"
@@ -144,7 +143,7 @@
                          Grid.Row="5"
                          Grid.Column="0"
                          Grid.ColumnSpan="3"
-                         BackgroundColor="White"
+                         BackgroundColor = "{DynamicResource ButtonBackround}"
                          BorderColor="{DynamicResource LightColor}"
                          TextColor="{DynamicResource PrimaryDark}"
                          BorderWidth="1"

@@ -1,6 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using Xamarin.Forms;
+﻿using Xamarin.Forms;
+using Xamarin.Forms.Xaml;
 using CardReader.ViewModels;
 
 namespace CardReader.Views
@@ -10,7 +9,7 @@ namespace CardReader.Views
         public CardEntryView()
         {
             InitializeComponent();
-            this.BindingContext = new CardEntryViewModel();
+            this.BindingContext = new CardEntryViewModel();            
         }
     }
 }

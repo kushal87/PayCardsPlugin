@@ -22,7 +22,7 @@ namespace CardReader.iOS.Renderer
             }
             catch(Exception ex)
             {
-
+                Console.WriteLine(ex.StackTrace);
             }
         }
 

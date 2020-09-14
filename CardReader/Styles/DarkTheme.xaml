@@ -2,11 +2,12 @@
 <ResourceDictionary
     xmlns="http://xamarin.com/schemas/2014/forms"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-    x:Class="CardReader.Styles.DarkTheme">
+    x:Class="CardReader.Styles.DarkTheme">   
              <!--below are test colors only-->
             <Color x:Key="Primary">#E5E9EE</Color>
-            <Color x:Key="PrimaryDark">#FF0000</Color>
+            <Color x:Key="PrimaryDark">#000000</Color>
             <Color x:Key="Secondary">#800000</Color>
             <Color x:Key="Accent">#CD5C5C</Color>
             <Color x:Key="LightColor">#FA8072</Color>
+            <Color x:Key="ButtonBackround">#7A7770</Color>
 </ResourceDictionary>
