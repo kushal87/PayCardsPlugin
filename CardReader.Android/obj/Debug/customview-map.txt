@@ -38,6 +38,7 @@ cards.pay.paycardsrecognizer.sdk.ui.views.TabletCardRecognitionHolderLinearLayou
 color;/Users/kushal/Documents/GitHub/PayCardsPlugin/CardReader.Android/obj/Debug/lp/1/jl/res/values/values.xml
 color;/Users/kushal/Documents/GitHub/PayCardsPlugin/CardReader.Android/obj/Debug/lp/1/jl/res/values-sw600dp-v13/values-sw600dp-v13.xml
 color;obj/Debug/res/values/colors.xml
+color;obj/Debug/res/values-night/colors.xml
 corners;/Users/kushal/Documents/GitHub/PayCardsPlugin/CardReader.Android/obj/Debug/lp/1/jl/res/drawable/wocr_frame_rect_gradient.xml
 declare-styleable;/Users/kushal/Documents/GitHub/PayCardsPlugin/CardReader.Android/obj/Debug/lp/1/jl/res/values/values.xml
 dimen;/Users/kushal/Documents/GitHub/PayCardsPlugin/CardReader.Android/obj/Debug/lp/1/jl/res/values/values.xml
@@ -60,6 +61,8 @@ item;/Users/kushal/Documents/GitHub/PayCardsPlugin/CardReader.Android/obj/Debug/
 item;/Users/kushal/Documents/GitHub/PayCardsPlugin/CardReader.Android/obj/Debug/lp/1/jl/res/values-sw600dp-v13/values-sw600dp-v13.xml
 item;/Users/kushal/Documents/GitHub/PayCardsPlugin/CardReader.Android/obj/Debug/lp/1/jl/res/values-v21/values-v21.xml
 item;/Users/kushal/Documents/GitHub/PayCardsPlugin/CardReader.Android/obj/Debug/lp/41/jl/res/values/styles.xml
+item;obj/Debug/res/values/styles.xml
+item;obj/Debug/res/values-night/styles.xml
 LinearLayout;/Users/kushal/Documents/GitHub/PayCardsPlugin/CardReader.Android/obj/Debug/lp/41/jl/res/layout/bottomtablayout.xml
 path;/Users/kushal/Documents/GitHub/PayCardsPlugin/CardReader.Android/obj/Debug/lp/1/jl/res/drawable-anydpi-v21/wocr_ic_flash.xml
 paths;/Users/kushal/Documents/GitHub/PayCardsPlugin/CardReader.Android/obj/Debug/lp/40/jl/res/xml/xamarin_essentials_fileprovider_file_paths.xml
@@ -73,6 +76,8 @@ resources;/Users/kushal/Documents/GitHub/PayCardsPlugin/CardReader.Android/obj/D
 resources;/Users/kushal/Documents/GitHub/PayCardsPlugin/CardReader.Android/obj/Debug/lp/41/jl/res/values/styles.xml
 resources;obj/Debug/res/values/colors.xml
 resources;obj/Debug/res/values/styles.xml
+resources;obj/Debug/res/values-night/colors.xml
+resources;obj/Debug/res/values-night/styles.xml
 selector;/Users/kushal/Documents/GitHub/PayCardsPlugin/CardReader.Android/obj/Debug/lp/1/jl/res/drawable/wocr_manual_input_button.xml
 set;/Users/kushal/Documents/GitHub/PayCardsPlugin/CardReader.Android/obj/Debug/lp/41/jl/res/anim/enterfromleft.xml
 set;/Users/kushal/Documents/GitHub/PayCardsPlugin/CardReader.Android/obj/Debug/lp/41/jl/res/anim/enterfromright.xml
@@ -86,6 +91,7 @@ style;/Users/kushal/Documents/GitHub/PayCardsPlugin/CardReader.Android/obj/Debug
 style;/Users/kushal/Documents/GitHub/PayCardsPlugin/CardReader.Android/obj/Debug/lp/1/jl/res/values-v21/values-v21.xml
 style;/Users/kushal/Documents/GitHub/PayCardsPlugin/CardReader.Android/obj/Debug/lp/41/jl/res/values/styles.xml
 style;obj/Debug/res/values/styles.xml
+style;obj/Debug/res/values-night/styles.xml
 SurfaceView;/Users/kushal/Documents/GitHub/PayCardsPlugin/CardReader.Android/obj/Debug/lp/1/jl/res/layout/wocr_include_card_detection_layout.xml
 TextView;/Users/kushal/Documents/GitHub/PayCardsPlugin/CardReader.Android/obj/Debug/lp/1/jl/res/layout/wocr_include_card_detection_layout.xml
 translate;/Users/kushal/Documents/GitHub/PayCardsPlugin/CardReader.Android/obj/Debug/lp/41/jl/res/anim/enterfromleft.xml

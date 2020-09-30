@@ -129,7 +129,8 @@
                          FontSize="18"
                          CornerRadius="25"
                          Padding="18"
-                         Margin="30,30"/>
+                         Margin="30,30"
+                         Clicked="Handle_ModeChange"/>
 
                <BoxView  HorizontalOptions="FillAndExpand"
                          Color="{DynamicResource Secondary}"

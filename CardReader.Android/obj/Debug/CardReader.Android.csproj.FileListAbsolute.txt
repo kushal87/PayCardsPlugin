@@ -1055,3 +1055,5 @@
 /Users/kushal/Documents/GitHub/PayCardsPlugin/CardReader.Android/obj/Debug/stamp/_GenerateJavaStubs.stamp
 /Users/kushal/Documents/GitHub/PayCardsPlugin/CardReader.Android/obj/Debug/stamp/_GeneratePackageManagerJava.stamp
 /Users/kushal/Documents/GitHub/PayCardsPlugin/CardReader.Android/obj/Debug/stamp/_ResolveLibraryProjectImports.stamp
+/Users/kushal/Documents/GitHub/PayCardsPlugin/CardReader.Android/obj/Debug/res/values-night/colors.xml
+/Users/kushal/Documents/GitHub/PayCardsPlugin/CardReader.Android/obj/Debug/res/values-night/styles.xml
